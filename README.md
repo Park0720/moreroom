@@ -24,6 +24,21 @@ Figma
 파티
 ![image](https://github.com/user-attachments/assets/fa29cfc5-82c0-41b4-865b-48c3f8076a38)
 
+기획의도
+![image](https://github.com/user-attachments/assets/4c176c7f-e59a-4090-af8a-f82fd7c24ad2)
+![image](https://github.com/user-attachments/assets/4bf2b36c-d568-4859-9db9-055fa2d41117)
+특장점
+![image](https://github.com/user-attachments/assets/e4c04c53-ca1f-4598-bb84-da8822a282ea)
+주요기능
+![image](https://github.com/user-attachments/assets/7c49002d-35a9-45a1-9922-2a05b6e612f5)
+![image](https://github.com/user-attachments/assets/448eba36-e321-4121-89d8-cb692a3c79f7)
+![image](https://github.com/user-attachments/assets/65c43cbf-bcaf-4b67-9c40-cd2443cd01d3)
+![image](https://github.com/user-attachments/assets/e5b7cb8b-83a0-484c-9c00-b9da2e6a3f3f)
+
+팀원소개
+![image](https://github.com/user-attachments/assets/7665fb2f-ea56-476c-bef0-ea01b5c2ea16)
+![image](https://github.com/user-attachments/assets/529c05c6-8f28-4654-897a-6158ee9f28df)
+
 메인화면
 ![메인화면](https://github.com/user-attachments/assets/a63c3765-f192-4cad-98d6-3d3dbd6ac496)
 카페조회
