@@ -1,6 +1,12 @@
 # moreroom
+아이콘
+![image (4)](https://github.com/user-attachments/assets/28c929d4-4150-4f1c-bc8b-3c8e69a7863d)
 ERD
 ![image](https://github.com/user-attachments/assets/5f90c124-32f3-4c3f-9a6e-373b850064c1)
+Figma
+![image](https://github.com/user-attachments/assets/aab334e5-888c-4dc1-948f-cc926443413b)
+기술스택
+![image](https://github.com/user-attachments/assets/7f32fb15-4927-4da5-b21c-e5d6be13a087)
 회원
 ![image](https://github.com/user-attachments/assets/cfbc7934-37a9-48a1-b3c3-19861a3a200e)
 테마
@@ -26,3 +32,6 @@ ERD
 ![테마 조회](https://github.com/user-attachments/assets/12a3d0af-1f02-48b6-8946-b2fd51775caf)
 파티 매칭
 ![파팅 매칭](https://github.com/user-attachments/assets/d79b12c4-17a5-47d8-80ff-d4f21a559826)
+리뷰 조회
+![리뷰 조회](https://github.com/user-attachments/assets/af954511-ddeb-4147-87bf-9b810bff0eb5)
+
