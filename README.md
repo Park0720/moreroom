@@ -17,3 +17,12 @@ ERD
 ![image](https://github.com/user-attachments/assets/538768d3-0727-4a15-a40b-00a7d793933c)
 파티
 ![image](https://github.com/user-attachments/assets/fa29cfc5-82c0-41b4-865b-48c3f8076a38)
+
+메인화면
+![메인화면](https://github.com/user-attachments/assets/a63c3765-f192-4cad-98d6-3d3dbd6ac496)
+카페조회
+![카페 조회](https://github.com/user-attachments/assets/db6dc938-32ac-4283-8e15-6d7c06d6f25f)
+테마조회
+![테마 조회](https://github.com/user-attachments/assets/12a3d0af-1f02-48b6-8946-b2fd51775caf)
+파티 매칭
+![파팅 매칭](https://github.com/user-attachments/assets/d79b12c4-17a5-47d8-80ff-d4f21a559826)
