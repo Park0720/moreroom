@@ -51,5 +51,11 @@ Figma
 ![리뷰 조회](https://github.com/user-attachments/assets/af954511-ddeb-4147-87bf-9b810bff0eb5)
 리뷰 작성
 ![리뷰 작성 수정2](https://github.com/user-attachments/assets/159295d1-c665-4b5e-9787-f036fb0016e1)
+기록 조회
+![기록_조회](https://github.com/user-attachments/assets/b58b7ba7-5f93-40a1-9e8e-401550310951)
+기록 작성
+![기록_작성](https://github.com/user-attachments/assets/b2d2bb67-7458-4770-9ee7-3906e8d6866f)
+매칭 알람 및 채팅방
+![파티 매칭 과정과 채팅](https://github.com/user-attachments/assets/db55da76-5fd0-4436-b5be-cc50a119cc68)
 
 
