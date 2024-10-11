@@ -1,6 +1,8 @@
 # moreroom
 아이콘
 ![image (4)](https://github.com/user-attachments/assets/28c929d4-4150-4f1c-bc8b-3c8e69a7863d)
+아이콘
+![image](https://github.com/user-attachments/assets/70938639-59fd-4c48-a630-a21410d5dbe2)
 ERD
 ![image](https://github.com/user-attachments/assets/5f90c124-32f3-4c3f-9a6e-373b850064c1)
 Figma
